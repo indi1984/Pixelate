@@ -7,7 +7,7 @@ let color = 'red';
 rowButton.addEventListener('click', makeRow);
 table.addEventListener('click', colorize);
 select.addEventListener('change', (event) => {
-    color = event.target.value;
+  color = event.target.value;
 });
 
 function makeRow() {
@@ -27,4 +27,3 @@ function colorize(event) {
     target.className = '';
   };
 };
-
