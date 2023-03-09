@@ -25,15 +25,37 @@ td {
   background-color: red;
 }
 
-.blue {
-  background-color: blue;
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
 }
 
 .green {
   background-color: green;
 }
 
-.orange {
-  background-color: orange;
+
+.blue {
+  background-color: blue;
 }
+
+.indigo {
+  background-color: indigo;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
 
